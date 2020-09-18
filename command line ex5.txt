@@ -1,0 +1,51 @@
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line (master)
+$ mkdir school
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line (master)
+$ cd school
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/school (master)
+$ mkdir tools
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/school (master)
+$ mkdir CS1
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/school (master)
+$ mkdir CS2
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/school (master)
+$ ls
+CS1/  CS2/  tools/
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/school (master)
+$ cd tools
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/school/tools (master)
+$ touch cmnd-line.txt
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/school/tools (master)
+$ ls
+cmnd-line.txt
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/school/tools (master)
+$ cd ../CS1
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/school/CS1 (master)
+$ touch lecture1.txt
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/school/CS1 (master)
+$ ls
+lecture1.txt
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/school/CS1 (master)
+$ cd ../CS2
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/school/CS2 (master)
+$ touch lecture2.txt
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/school/CS2 (master)
+$ touch java.txt
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/school/CS2 (master)
+$ ls
+java.txt  lecture2.txt
